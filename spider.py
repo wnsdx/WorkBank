@@ -17,3 +17,5 @@ if __name__ == "__main__":
     result = response.read().decode()
     #输出
     print(result)
+
+    
